@@ -1,11 +1,10 @@
-
 {
     "contact": "discord.gg/rdelamora1",
     "templates": [
       {
         "name": "catholic",
         "sources": [
-          "https://https://github.com/Rosaries/place/blob/main/Eucharist.png"
+          "https://raw.githubusercontent.com/Rosaries/place/main/test.png"
         ],
         "x": 469,
         "y": 913
