@@ -1,0 +1,21 @@
+
+{
+    "contact": "discord.gg/rdelamora1",
+    "templates": [
+      {
+        "name": "catholic",
+        "sources": [
+          "https://https://github.com/Rosaries/place/blob/main/Eucharist.png"
+        ],
+        "x": 469,
+        "y": 913
+      }
+    ],
+    "whitelist": [
+        {
+            "name": "GodIsPresent",
+            "url": "https://raw.githubusercontent.com/april-knights/overlaytemplates/main/AprilKnightsjson.json"
+        }
+    ],
+    "blacklist": []
+  }
